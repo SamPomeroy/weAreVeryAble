@@ -4,14 +4,14 @@
 let myFirstName = "Sam"
 let myLastName = "Pomeroy"
 let myFavoriteCeleb = "none"
-let mySentence = "Hello"
+let mySentence = "My name is: " + myFirstName + " " + myLastName + " and my favorite celeb is " + myFavoriteCeleb
 let myLuckyNum = 4
 let myAge = 45
 let myHeight = 64
 let myFavoriteYear = 2023
 let mySum = 5 + 2317 + 36
 let myProduct = 232 * 43 / 2 + 4
-let myHeightAndAge = 45 + 64
+let myHeightAndAge = myAge + myHeight
 
 
 /*********************************************************************************************************************
